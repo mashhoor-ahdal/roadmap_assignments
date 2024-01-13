@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(95, 95, 95);
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#input_form{
+    text-align: center;
+}
+
+
+#result{
+    color: white;
+    margin-top: 50px;
+    width: 400px;   
+    background-color: rgb(41, 40, 39);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(20, 20, 20, 0.247), 0 6px 20px 0 rgba(20, 20, 20, 0.19);
+    
+}
+
+#result img{
+    height: 70px;
+    width: 70px;
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-left: 150px;
+
+}
+
+#result p{
+    padding-left: 140px;
+}
+.github{
+ color: #bdc91d;
+ padding-left: 140px;
+ 
+}
+.githubUrl{
+    color:blueviolet;
+
+}
+
+
