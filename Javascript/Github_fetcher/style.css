@@ -1,12 +1,14 @@
 body{
-    background-color: rgb(95, 95, 95);
-    font-family: sans-serif;
+    background-color: #845EC2;    
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 header{
+    color: #0dd6dd;
+    text-shadow: 2px 2px #252323e1;
     text-align: center;
     margin-top: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -14,7 +16,20 @@ header{
 #input_form{
     text-align: center;
 }
-
+#input_form > input[type=text]{
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+}
+#input_form > input[type=submit]{
+    border: none;
+    border-radius: 5px;
+}
+input[type=submit]:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px gray;
+    transition: box-shadow .2 ease-in;
+}
 
 #result{
     color: white;
@@ -44,7 +59,7 @@ header{
  
 }
 .githubUrl{
-    color:blueviolet;
+    color:rgba(64, 226, 43, 0.705);
 
 }
 
