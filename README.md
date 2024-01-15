@@ -22,7 +22,15 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - **Technologies Used**: HTML, CSS, JavaScript
   
 - ✅ **Completed**: Yes
+### Project 3: Todo List with Local Storage
 
+- **Description**: Created a simple to-do list app that allows users to search, add, edit, and delete items. Use local storage to store the data.
+
+
+  
+- **Technologies Used**: HTML, CSS, JavaScript,Local Storage(browser)
+  
+- ✅ **Completed**: Yes
 
 <?-- ## Technologies Explored
 
