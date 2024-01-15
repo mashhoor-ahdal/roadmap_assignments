@@ -13,6 +13,7 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - **Technologies Used**: HTML, CSS
   
 - ✅ **Completed**: Yes
+![WriteDev](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/de41c168-6162-4ef5-8d46-70b9d063e878)
 
 ### Project 2: Github user fetcher
 
