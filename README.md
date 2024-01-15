@@ -23,6 +23,8 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - **Technologies Used**: HTML, CSS, JavaScript
   
 - ✅ **Completed**: Yes
+- ![Git user finder](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/eb33cacf-2350-46bb-b6a0-6d892f96014f)
+
 ### Project 3: Todo List with Local Storage
 
 - **Description**: Created a simple to-do list app that allows users to search, add, edit, and delete items. Use local storage to store the data.
@@ -32,6 +34,8 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - **Technologies Used**: HTML, CSS, JavaScript,Local Storage(browser)
   
 - ✅ **Completed**: Yes
+- ![Todo using Local Storage of browser](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/59f3d28b-0991-42a6-b0b8-19926ef18bc0)
+
 
 <?-- ## Technologies Explored
 
