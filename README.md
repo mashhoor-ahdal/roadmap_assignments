@@ -36,6 +36,17 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - ✅ **Completed**: Yes
 - ![Todo using Local Storage of browser](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/59f3d28b-0991-42a6-b0b8-19926ef18bc0)
 
+### Project 4: Simple Calculator
+
+- **Description**: Create a basic calculator app that allows users to perform basic arithmetic operations.
+
+
+  
+- **Technologies Used**: HTML, CSS, JavaScript
+  
+- ✅ **Completed**: Yes
+![CalculatorProject](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/fe9fd82e-3518-4d56-8c62-7a5e63792fc1)
+
 
 <?-- ## Technologies Explored
 
