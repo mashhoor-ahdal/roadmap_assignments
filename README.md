@@ -14,7 +14,7 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - ✅ **Completed**: Yes
   ![WriteDev](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/de41c168-6162-4ef5-8d46-70b9d063e878)
 
-### Project 2: Github user fetcher
+### Project 2: Github User Fetcher
 
 - **Description**: This simple webpage allows you to view basic profile information of any GitHub user by entering their username. It fetches data from the GitHub API and displays it in a user-friendly format.
   .
@@ -28,6 +28,13 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - **Technologies Used**: HTML, CSS, JavaScript,Local Storage(browser)
 - ✅ **Completed**: Yes
 - ![Todo using Local Storage of browser](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/59f3d28b-0991-42a6-b0b8-19926ef18bc0)
+
+### Project 4: Simple Calculator
+
+- **Description**: Create a basic calculator app that allows users to perform basic arithmetic operations.
+- **Technologies Used**: HTML, CSS, JavaScript
+- ✅ **Completed**: Yes
+  ![CalculatorProject](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/fe9fd82e-3518-4d56-8c62-7a5e63792fc1)
 
 ### Project 3: React Tic Tac Toe
 
