@@ -1,0 +1,95 @@
+/* Styles for the .game container */
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #2c3e50; /* Dark background color */
+    color: #ecf0f1; /* Light text color */
+  }
+  
+  /* Styles for the .game-board container */
+  .game-board {
+    margin-top: 20px;
+    background-color: #34495e; /* Darker background color */
+    border: 2px solid #3498db; /* Border color */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Slight box shadow */
+  }
+  
+  /* Styles for the .status div */
+  .status {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #3498db; /* Status text color */
+  }
+  
+  /* Styles for the .board-row container */
+  .board-row {
+    display: flex;
+  }
+  
+  /* Styles for the Square component */
+  .square {
+    flex: 1;
+    padding: 20px;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3498db; /* Button background color */
+    color: #ecf0f1; /* Button text color */
+    border: 2px solid #2980b9; /* Border color */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  /* Styles for the Square when hovered */
+  .square:hover {
+    background-color: #2980b9; /* Darker button background color */
+  }
+  
+  /* Styles for X player's moves */
+  .X {
+    color: #e74c3c; /* Red color for X */
+  }
+  
+  /* Styles for O player's moves */
+  .O {
+    color: #3498db; /* Blue color for O */
+  }
+  
+  /* Styles for the game-info container */
+  .game-info {
+    margin-top: 20px;
+  }
+  
+  /* Styles for the ol (ordered list) */
+  ol {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  /* Styles for the li (list item) within ol */
+  li {
+    margin-bottom: 5px;
+  }
+  
+  /* Styles for the button within li */
+  li button {
+    background-color: #3498db; /* Button background color */
+    color: #ecf0f1; /* Button text color */
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Styles for the button within li when hovered */
+  li button:hover {
+    background-color: #2980b9; /* Darker button background color */
+  }
+  
