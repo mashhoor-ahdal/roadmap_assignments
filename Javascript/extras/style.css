@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(20, 20, 20);
+    height: 100vh;
+    margin: 0;
+}
+#trailer{
+    background-color: rgb(189, 179, 179);
+    height: 20px;
+    width: 20px;
+    position: fixed;
+    border-radius: 20px;
+    left: 0;
+    top:0;
+    z-index: 10000;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 500ms ease;
+    
+}
+body:hover > #trailer{
+    opacity: 1;
+}
