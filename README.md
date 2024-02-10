@@ -36,11 +36,12 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - ✅ **Completed**: Yes
   ![CalculatorProject](https://github.com/mashhoor-ahdal/roadmap_assignments/assets/101206478/fe9fd82e-3518-4d56-8c62-7a5e63792fc1)
 
-### Project 3: React Tic Tac Toe
+### Project 5: React Tic Tac Toe
 
 - **Description**: Tic Tac Toe game
 - **Technologies Used**: React,CSS
 - ✅ **Completed**: Yes
+
 
 <?-- ## Technologies Explored
 
