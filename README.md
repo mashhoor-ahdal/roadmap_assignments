@@ -64,7 +64,7 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - Build larger and more complex applications.
 - Dive into different frontend frameworks (e.g., React, Angular, Vue.js). -->
 
-# Contact
+## Contact
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
