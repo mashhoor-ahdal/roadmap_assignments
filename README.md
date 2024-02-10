@@ -43,27 +43,6 @@ Feel free to explore the projects and see how my skills have evolved over time.
 - ✅ **Completed**: Yes
 
 
-<?-- ## Technologies Explored
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Version Control**: Git
-- **Other**: RESTful API, CRUD Operations
-
-## What I've Learned
-
-- Developed a solid understanding of frontend and backend technologies.
-- Implemented CRUD operations in a fullstack application.
-- Explored the use of databases in web development.
-- Gained experience in version control using Git.
-
-## Future Goals
-
-- Explore more advanced concepts in fullstack development.
-- Build larger and more complex applications.
-- Dive into different frontend frameworks (e.g., React, Angular, Vue.js). -->
-
 ## Contact
 
 - If you have any questions, suggestions, or just want to connect, feel free to reach out:
@@ -72,3 +51,4 @@ Feel free to explore the projects and see how my skills have evolved over time.
 
 
 Happy coding! 🚀✨
+
