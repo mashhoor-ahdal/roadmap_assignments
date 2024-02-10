@@ -66,7 +66,7 @@ Feel free to explore the projects and see how my skills have evolved over time.
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out:
+- If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
 - Email: mashhoorahdal3@gmail.com
 
