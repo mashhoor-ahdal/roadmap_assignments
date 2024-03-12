@@ -1,4 +1,4 @@
-# Fullstack Learning Journey
+# Fullstack Learning Journey!
 
 Welcome to my Fullstack Learning Journey! 🌟 Here, I document the projects I've completed while learning fullstack development. Each project represents a step forward in my journey to mastering both frontend and backend technologies.
 
